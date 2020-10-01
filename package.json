@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neutonfoo/express-test/issues"
   },
-  "homepage": "https://github.com/neutonfoo/express-test#readme"
+  "homepage": "https://github.com/neutonfoo/express-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
